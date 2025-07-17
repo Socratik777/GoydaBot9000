@@ -211,7 +211,7 @@ async def on_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     # 0) Детектор украинской мовы
     if re.search(r"[ґҐєЄіІїЇ]", text):
-        with open("/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ukr.mp4", "rb") as gif:
+        with open(GIF_DIR / "ukr.mp4", "rb") as gif:
             await update.message.reply_animation(gif)
         return
     # 0-A) Сообщения про Linux
