@@ -1,0 +1,1863 @@
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendAnimation "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendAnimation "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getChatAdministrators "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteMessage "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteMessage "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/answerCallbackQuery "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/answerCallbackQuery "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Updater:Error while calling `get_updates` one more time to mark all fetched updates as read: %s. Suppressing error to ensure graceful shutdown. When polling for updates is restarted, updates may be fetched again. Please adjust timeouts via `ApplicationBuilder` or the parameter `get_updates_request` of `Bot`.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 399, in _get_updates_cleanup
+    await self.bot.get_updates(
+    ...<4 lines>...
+    )
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 73, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+NameError: name 'TRIGGERS' is not defined
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 409 Conflict"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 115, in network_retry_loop
+    if not await do_action():
+           ^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_utils/networkloop.py", line 108, in do_action
+    return action_cb_task.result()
+           ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 669, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 4610, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_extbot.py", line 369, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/request/_baserequest.py", line 374, in _request_wrapper
+    raise exception
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteMessage "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/answerCallbackQuery "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in <genexpr>
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+TypeError: 'PosixPath' object is not iterable
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteMessage "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteMessage "HTTP/1.1 400 Bad Request"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in <genexpr>
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+TypeError: 'PosixPath' object is not iterable
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in <genexpr>
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+TypeError: 'PosixPath' object is not iterable
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 75, in <genexpr>
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+TypeError: 'PosixPath' object is not iterable
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "<lambda>" to job store "default"
+INFO:apscheduler.scheduler:Added job "schedule.<locals>.weekly_top" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:ГойдаБот9000 запущен. Ждём гойд…
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getMe "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/deleteWebhook "HTTP/1.1 200 OK"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:telegram.ext.Application:Application started
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 77, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+NameError: name 'TRIGGERS' is not defined
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 77, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+NameError: name 'TRIGGERS' is not defined
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 77, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+NameError: name 'TRIGGERS' is not defined
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+ERROR:telegram.ext.Application:No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_application.py", line 1309, in process_update
+    await coroutine
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/venv/lib/python3.13/site-packages/telegram/ext/_handlers/basehandler.py", line 158, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/handlers.py", line 157, in on_message
+    delta2, reply2 = score_message(text, user.first_name)
+                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nikitakuzin/Desktop/GoydaBot9000/goyda_analyzer.py", line 77, in score_message
+    if any(trig in lower for trig in TRIGGERS):
+                                     ^^^^^^^^
+NameError: name 'TRIGGERS' is not defined
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/sendMessage "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.telegram.org/bot8144180443:AAFxdcvF0WUomB1CTdtYUJtgfo8V9ahrT6M/getUpdates "HTTP/1.1 200 OK"
+INFO:telegram.ext.Application:Application is stopping. This might take a moment.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:telegram.ext.Application:Application.stop() complete

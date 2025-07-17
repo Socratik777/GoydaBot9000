@@ -1,0 +1,11 @@
+
+python-telegram-bot>=20.8,<21.0
+APScheduler==3.10.4
+pytesseract
+Pillow
+vosk
+faster-whisper
+sentence-transformers
+numpy
+regex
+ffmpeg-python
