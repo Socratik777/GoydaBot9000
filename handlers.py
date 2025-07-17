@@ -98,19 +98,19 @@ WAHA_PHRASES = [
 
 LINUX_GIF = GIF_DIR / "linuxoid.mp4"
 UA_GIFS = [
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua1.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua2.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua3.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua4.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua5.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua6.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua7.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua8.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua9.mp4",
-    "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/ua10.mp4",
+    GIF_DIR / "ua1.mp4",
+    GIF_DIR / "ua2.mp4",
+    GIF_DIR / "ua3.mp4",
+    GIF_DIR / "ua4.mp4",
+    GIF_DIR / "ua5.mp4",
+    GIF_DIR / "ua6.mp4",
+    GIF_DIR / "ua7.mp4",
+    GIF_DIR / "ua8.mp4",
+    GIF_DIR / "ua9.mp4",
+    GIF_DIR / "ua10.mp4"
 ]
 
-ADMIN_GIF = "/Users/nikitakuzin/Desktop/GoydaBot9000/gif/admin.mp4"
+ADMIN_GIF = GIF_DIR / "admin.mp4"
 
 BATYUSHKA_GIF = GIF_DIR / "batyushka.mp4"
 BATYUSHKA_PHRASES = [
